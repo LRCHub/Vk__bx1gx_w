@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Peanuts in Wonderland",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T06:39:55.665949Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Peanuts in Wonderland",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Peanuts_in_Wonderland_ピーナッツくん.txt"
+    }
+  ]
+}
